@@ -1,0 +1,4 @@
+--patch-module
+com.newJavaFeatures.twelve=_
+--add-reads
+com.newJavaFeatures.twelve=ALL-UNNAMED

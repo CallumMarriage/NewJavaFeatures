@@ -1,0 +1,4 @@
+--patch-module
+com.newJavaFeatures.feature=_
+--add-reads
+com.newJavaFeatures.feature=ALL-UNNAMED
